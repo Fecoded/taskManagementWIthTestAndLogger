@@ -1,0 +1,5 @@
+server:
+  origin: ///frontend access
+
+db:
+  synchronize: false
